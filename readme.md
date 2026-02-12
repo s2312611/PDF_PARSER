@@ -9,6 +9,7 @@
 - [目次](#目次)
 - [要件](#要件)
 - [ダウンロード](#ダウンロード)
+  - [マイクロソフト・ウィンドウズ](#マイクロソフトウィンドウズ)
 - [ディレクトリ構造](#ディレクトリ構造)
 
 ## 要件
@@ -70,6 +71,7 @@ Keywords: portable document format (`.pdf`), parser.
 - [Table of Contents](#table-of-contents)
 - [Requirements](#requirements)
 - [Download](#download)
+  - [Microsoft Windows](#microsoft-windows)
 - [Directory Structure](#directory-structure)
 
 ## Requirements
