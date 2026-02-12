@@ -4,6 +4,11 @@
 
 キーワード：可搬型文書形式（`.pdf`）、解析器。
 
+## 目次
+
+- [目次](#目次)
+- [ディレクトリ構造](#ディレクトリ構造)
+
 ## ディレクトリ構造
 
 ``` text
@@ -18,6 +23,11 @@ PDF_PARSER/                             可搬型文書形式解析器
 # Portable Document Format Parser
 
 Keywords: portable document format (`.pdf`), parser.
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Directory Structure](#directory-structure)
 
 ## Directory Structure
 
