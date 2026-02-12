@@ -53,8 +53,8 @@ PDF_PARSER/                             可搬型文書形式解析器
 ├── Sources/                            ソースコード
 │   ├── pdf_parser/                     モジュール
 │   │   ├── __init__.py                 初期化モジュール
-│   │   └── pypdfium2.py                ＰＤＦｉｕｍ２に依拠したモジュール
-│   ├── pypdfium2.py                    ＰＤＦｉｕｍ２に依拠したプログラム
+│   │   └── basedon_pypdfium2.py        ＰＤＦｉｕｍ２に依拠したモジュール
+│   ├── basedon_pypdfium2.py            ＰＤＦｉｕｍ２に依拠したプログラム
 │   └── setup.bat                       実行可能ファイル作成用のプログラム
 ├── Tests/                              試験
 ├── .gitignore
@@ -115,8 +115,8 @@ PDF_PARSER/                             Portable Document Format Parser
 ├── Sources/                            Source Code
 │   ├── pdf_parser/                     Module
 │   │   ├── __init__.py                 Initiation Module
-│   │   └── pypdfium2.py                Module based on PDFium2
-│   ├── pypdfium2.py                    Program based on PDFium2
+│   │   └── basedon_pypdfium2.py        Module based on PDFium2
+│   ├── basedon_pypdfium2.py            Program based on PDFium2
 │   └── setup.bat                       Program for Building an Executable File
 ├── Tests/                              Tests
 ├── .gitignore
