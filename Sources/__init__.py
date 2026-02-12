@@ -1,1 +1,1 @@
-from .pypdfium2 import *
+from . import pypdfium2 as pdfium
