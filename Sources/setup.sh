@@ -1,3 +1,5 @@
+python -m pip install pypdfium2
+python -m pip install pyinstaller
 python -m PyInstaller pypdfium2.py --onefile
 cp ./dist/pypdfium2.exe ../Tests/pypdfium2.exe
 cp ./dist/pypdfium2.exe ../Programs/pypdfium2.exe
