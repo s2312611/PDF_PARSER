@@ -14,8 +14,8 @@
 ## 要件
 
 - [パイソン](https://www.python.org/downloads/)をインストールする。
-- 実行可能ファイルを作成する前に`pypdfium2`モジュールの[ライセンス](https://github.com/pypdfium2-team/pypdfium2/tree/main/LICENSES)を確認する。
-- 実行可能ファイルを作成する前に`pyinstaller`モジュールの[ライセンス](https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt)を確認する。
+- 実行可能ファイルを作成する前に`pypdfium2`モジュールの[ライセンス](https://pypdfium2.readthedocs.io/en/stable/readme.html#licensing)を確認する。
+- 実行可能ファイルを作成する前に`pyinstaller`モジュールの[ライセンス](https://pyinstaller.org/en/stable/license.html)を確認する。
 
 ## ダウンロード
 
@@ -75,8 +75,8 @@ Keywords: portable document format (`.pdf`), parser.
 ## Requirements
 
 - Install [Python](https://www.python.org/downloads/).
-- Before creating executable files, check the [licenses](https://github.com/pypdfium2-team/pypdfium2/tree/main/LICENSES) of the `pypdfium2` module.
-- Before creating executable files, check the [license](https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt) of the `pyinstaller` module.
+- Before creating executable files, check the [licenses](https://pypdfium2.readthedocs.io/en/stable/readme.html#licensing) of the `pypdfium2` module.
+- Before creating executable files, check the [license](https://pyinstaller.org/en/stable/license.html) of the `pyinstaller` module.
 
 ## Download
 
