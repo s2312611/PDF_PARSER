@@ -1,3 +1,5 @@
+[日本語](#可搬型文書形式解析器)｜[English](#portable-document-format-parser)
+
 # 可搬型文書形式解析器
 
 キーワード：可搬型文書形式（`.pdf`）、解析器。
