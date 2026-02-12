@@ -14,7 +14,7 @@
 ``` text
 PDF_PARSER/                             可搬型文書形式解析器
 ├── Programs/                           プログラム
-│   └── pypdfium2.exe                    ＰＤＦｉｕｍ２に依拠したプログラム
+│   └── pypdfium2.exe                   ＰＤＦｉｕｍ２に依拠したプログラム
 ├── Sources/                            ソースコード
 │   ├── __init__.py                     初期化モジュール
 │   └── pypdfium2.py                    ＰＤＦｉｕｍ２に依拠したモジュール
