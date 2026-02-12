@@ -1,5 +1,7 @@
 @echo off
-python -m PyInstaller pypdfium2.py --onefile
+pip install pypdfium2
+pip install pyinstaller
+pyinstaller pypdfium2.py --onefile
 xcopy /Y /I "%~dp0dist\pypdfium2*" "..\Tests\"
 xcopy /Y /I "%~dp0dist\pypdfium2*" "..\"
 rmdir /S /Q "%~dp0build"
