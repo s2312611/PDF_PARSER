@@ -8,11 +8,40 @@
 
 - [目次](#目次)
 - [要件](#要件)
+- [ダウンロード](#ダウンロード)
 - [ディレクトリ構造](#ディレクトリ構造)
 
 ## 要件
 
 - [パイソン](https://www.python.org/downloads/)をインストールする。
+
+## ダウンロード
+
+### マイクロソフト・ウィンドウズ
+
+最新版の[ギットハブ・リポジトリ](https://github.com/s2312611/PDF_PARSER/archive/Ver.01.01.01.zip)をダウンロードして展開する。
+
+``` powershell
+git clone --branch Ver.01.01.01 https://github.com/s2312611/PDF_PARSER.git
+```
+
+展開したフォルダーの、`PDF_PARSER`フォルダーを開き、其中の`Sources`フォルダーを開く。
+
+``` powershell
+Set-Location -Path .\PDF_PARSER\Sources
+```
+
+実行可能ファイル作成用のプログラム（`setup.bat`）をダブルクリックして実行する。
+
+``` powershell
+.\setup.bat
+```
+
+１つフォルダーを戻ると、実行可能ファイル（`.exe`）が作成されて居るので、此れを任意のフォルダーにコピーして使用する。
+
+``` powershell
+Set-Location -Path ..
+```
 
 ## ディレクトリ構造
 
@@ -38,11 +67,40 @@ Keywords: portable document format (`.pdf`), parser.
 
 - [Table of Contents](#table-of-contents)
 - [Requirements](#requirements)
+- [Download](#download)
 - [Directory Structure](#directory-structure)
 
 ## Requirements
 
 - Install [Python](https://www.python.org/downloads/).
+
+## Download
+
+### Microsoft Windows
+
+Download the [latest GitHub repository](https://github.com/s2312611/PDF_PARSER/archive/Ver.01.01.01.zip) and extract it.
+
+``` powershell
+git clone --branch Ver.01.01.01 https://github.com/s2312611/PDF_PARSER.git
+```
+
+Open the extracted `PDF_PARSER` folder, and then open `Sources` folder inside.
+
+``` powershell
+Set-Location -Path .\PDF_PARSER\Sources
+```
+
+Double click and execute the program for building executable files (`setup.bat`).
+
+``` powershell
+.\setup.bat
+```
+
+Go back one folder, and the executables (`.exe`) are ready. Copy them to the desired directory for use.
+
+``` powershell
+Set-Location -Path ..
+```
 
 ## Directory Structure
 
