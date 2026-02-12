@@ -12,7 +12,6 @@
 
 ## 要件
 
-- [ギット](https://git-scm.com/install/)をインストールする。
 - [パイソン](https://www.python.org/downloads/)をインストールする。
 
 ## ディレクトリ構造
@@ -43,7 +42,6 @@ Keywords: portable document format (`.pdf`), parser.
 
 ## Requirements
 
-- Install [Git](https://git-scm.com/install/).
 - Install [Python](https://www.python.org/downloads/).
 
 ## Directory Structure
