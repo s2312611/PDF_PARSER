@@ -1,4 +1,4 @@
-from pdf_parser.basedon_pypdfium2 import search_pdfs, extract_text
+from pdf_parser.basedon_pypdfium2 import *
 
 def main():
     pdfs = search_pdfs()
