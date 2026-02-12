@@ -13,9 +13,12 @@
 
 ``` text
 PDF_PARSER/                             可搬型文書形式解析器
+├── Programs/                           プログラム
+│   └── pypdfium2.exe                    ＰＤＦｉｕｍ２に依拠したプログラム
 ├── Sources/                            ソースコード
 │   ├── __init__.py                     初期化モジュール
 │   └── pypdfium2.py                    ＰＤＦｉｕｍ２に依拠したモジュール
+├── .gitignore
 ├── license.md                          ＭＩＴライセンス
 └── readme.md                           説明書
 ```
@@ -33,9 +36,12 @@ Keywords: portable document format (`.pdf`), parser.
 
 ``` text
 PDF_PARSER/                             Portable Document Format Parser
+├── Programs/                           Programs
+│   └── pypdfium2.exe                   Program based on PDFium2
 ├── Sources/                            Source Code
 │   ├── __init__.py                     Initiation Module
 │   └── pypdfium2.py                    Module based on PDFium2
+├── .gitignore
 ├── license.md                          MIT License
 └── readme.md                           Manual
 ```
