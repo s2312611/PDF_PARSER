@@ -57,6 +57,10 @@ PDF_PARSER/                             可搬型文書形式解析器
 │   ├── basedon_pypdfium2.py            ＰＤＦｉｕｍ２に依拠したプログラム
 │   └── setup.bat                       実行可能ファイル作成用のプログラム
 ├── Tests/                              試験
+│   └── 1/                              第１版可搬型文書形式
+│       └── 0/                          第１．０版可搬型文書形式
+│           ├── empyt.pdf               試験用ファイル
+│           └── hello_world.pdf         試験用ファイル
 ├── .gitignore
 ├── license.md                          ＭＩＴライセンス
 └── readme.md                           説明書
@@ -119,6 +123,10 @@ PDF_PARSER/                             Portable Document Format Parser
 │   ├── basedon_pypdfium2.py            Program based on PDFium2
 │   └── setup.bat                       Program for Building an Executable File
 ├── Tests/                              Tests
+│   └── 1/                              Portable Document Format Version 1
+│       └── 0/                          Portable Document Format Version 1.0
+│           ├── empyt.pdf               Test File
+│           └── hello_world.pdf         Test File
 ├── .gitignore
 ├── license.md                          MIT License
 └── readme.md                           Manual
