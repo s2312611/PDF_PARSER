@@ -7,7 +7,13 @@
 ## 目次
 
 - [目次](#目次)
+- [要件](#要件)
 - [ディレクトリ構造](#ディレクトリ構造)
+
+## 要件
+
+- [ギット](https://git-scm.com/install/)をインストールする。
+- [パイソン](https://www.python.org/downloads/)をインストールする。
 
 ## ディレクトリ構造
 
@@ -30,7 +36,13 @@ Keywords: portable document format (`.pdf`), parser.
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
+- [Requirements](#requirements)
 - [Directory Structure](#directory-structure)
+
+## Requirements
+
+- Install [Git](https://git-scm.com/install/).
+- Install [Python](https://www.python.org/downloads/).
 
 ## Directory Structure
 
