@@ -19,11 +19,13 @@
 
 ``` text
 PDF_PARSER/                             可搬型文書形式解析器
-├── Programs/                           プログラム
-│   └── pypdfium2.exe                   ＰＤＦｉｕｍ２に依拠したプログラム
 ├── Sources/                            ソースコード
-│   ├── __init__.py                     初期化モジュール
-│   └── pypdfium2.py                    ＰＤＦｉｕｍ２に依拠したモジュール
+│   ├── pdf_parser/                     モジュール
+│   │   ├── __init__.py                 初期化モジュール
+│   │   └── pypdfium2.py                ＰＤＦｉｕｍ２に依拠したモジュール
+│   ├── pypdfium2.py                    ＰＤＦｉｕｍ２に依拠したプログラム
+│   └── setup.bat                       実行可能ファイル作成用のプログラム
+├── Tests/                              試験
 ├── .gitignore
 ├── license.md                          ＭＩＴライセンス
 └── readme.md                           説明書
@@ -48,11 +50,13 @@ Keywords: portable document format (`.pdf`), parser.
 
 ``` text
 PDF_PARSER/                             Portable Document Format Parser
-├── Programs/                           Programs
-│   └── pypdfium2.exe                   Program based on PDFium2
 ├── Sources/                            Source Code
-│   ├── __init__.py                     Initiation Module
-│   └── pypdfium2.py                    Module based on PDFium2
+│   ├── pdf_parser/                     Module
+│   │   ├── __init__.py                 Initiation Module
+│   │   └── pypdfium2.py                Module based on PDFium2
+│   ├── pypdfium2.py                    Program based on PDFium2
+│   └── setup.bat                       Program for Building an Executable File
+├── Tests/                              Tests
 ├── .gitignore
 ├── license.md                          MIT License
 └── readme.md                           Manual
