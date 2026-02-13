@@ -1,11 +1,6 @@
+from .utility import search_pdfs
 import os, os.path as ospath
 import pypdfium2 as pdfium
-
-def search_pdfs():
-    for directorypath, _, filenames in os.walk("."):
-        for filename in filenames:
-            if ospath.splitext(filename)[1].lower() == ".pdf":
-                yield ospath.join(directorypath, filename)
 
 def extract_text(path):
     pdf = pdfium.PdfDocument(path)
