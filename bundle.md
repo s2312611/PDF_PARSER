@@ -6,10 +6,13 @@
 
 - [目次](#目次)
 - [許諾事項](#許諾事項)
+  - [パイインストーラー](#パイインストーラー)
 
 ## 許諾事項
 
 構築前のソースコード及び構築後の実行可能ファイル共に、[ＭＩＴライセンス](./license.md)の下に公開する。自己責任の範囲で、自由に利用できる。
+
+### パイインストーラー
 
 # Bundle the Portable Document Format Parser
 
@@ -17,7 +20,10 @@
 
 - [Table of Contents](#table-of-contents)
 - [Licenses](#licenses)
+  - [PyInstaller](#pyinstaller)
 
 ## Licenses
 
 Both the source code before bundled and the executable file after bundle are released under the [MIT License](./license.md). As long as using at your own risk, you are free to use them however you wish.
+
+### PyInstaller
