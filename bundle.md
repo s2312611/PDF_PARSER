@@ -5,9 +5,15 @@
 ## 目次
 
 - [目次](#目次)
+- [許諾事項](#許諾事項)
+
+## 許諾事項
 
 # Bundle the Portable Document Format Parser
 
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
+- [Licenses](#licenses)
+
+## Licenses
