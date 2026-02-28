@@ -9,7 +9,7 @@
 
 ## 許諾事項
 
-構築前のソースコード及び構築後の実行可能ファイル共に、[ＭＩＴライセンス](./license.md)の下に公開する。自己責任である限り、自由に使用できる。
+構築前のソースコード及び構築後の実行可能ファイル共に、[ＭＩＴライセンス](./license.md)の下に公開する。自己責任の範囲で、自由に利用できる。
 
 # Bundle the Portable Document Format Parser
 
@@ -20,4 +20,4 @@
 
 ## Licenses
 
-Both the source code before bundled and the executable file after bundle are published under the [MIT License](./license.md). At your own risk, you can use them freely.
+Both the source code before bundled and the executable file after bundle are released under the [MIT License](./license.md). As long as using at your own risk, you are free to use them however you wish.
