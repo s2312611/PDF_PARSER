@@ -1,4 +1,4 @@
-from .utility import search_pdfs
+from ._utility_ import search_pdfs
 import os, os.path as ospath
 import pypdfium2 as pdfium
 
