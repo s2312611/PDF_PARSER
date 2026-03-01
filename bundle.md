@@ -19,20 +19,20 @@
 
 実行可能ファイルの構築に[パイインストーラー（外部リンク）](https://pyinstaller.org/)を使用した。パイインストーラー自体を改変する事なく実行可能ファイルを構築して公開した為、ＧＰＴライセンスは適用して居ない。若し、改変したパイインストーラーでの構築を考えて居るならば、[パイインストーラーのライセンス（外部リンク）](https://pyinstaller.org/en/stable/license.html)を参照せよ。
 
-# Bundle the Portable Document Format Parser
+# Build the Portable Document Format Parser
 
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Bundle a Dependent Executable File](#bundle-a-dependent-executable-file)
+- [Build a Dependent Executable File](#bundle-a-dependent-executable-file)
 - [Licenses](#licenses)
   - [PyInstaller](#pyinstaller)
 
-## Bundle a Dependent Executable File
+## Build a Dependent Executable File
 
 ## Licenses
 
-Both the source code before bundled and the executable file after bundle are released under the [MIT License](./license.md). As long as using at your own risk, you are free to use them however you wish.
+Both the source code before bundle and the executable file after bundle are released under the [MIT License](./license.md). As long as using at your own risk, you are free to use them however you wish.
 
 ### PyInstaller
 
