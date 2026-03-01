@@ -1,4 +1,4 @@
-from pdf_parser import *
+from PDFParser import *
 
 def main():
     pdfs = search_pdfs()
