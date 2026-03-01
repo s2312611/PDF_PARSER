@@ -6,8 +6,11 @@
 
 - [目次](#目次)
 - [依存型実行可能ファイルの構築](#依存型実行可能ファイルの構築)
+- [独立型実行可能ファイルの構築](#独立型実行可能ファイルの構築)
 - [許諾事項](#許諾事項)
   - [パイインストーラー](#パイインストーラー)
+
+## 独立型実行可能ファイルの構築
 
 ## 依存型実行可能ファイルの構築
 
@@ -24,9 +27,12 @@
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Build a Dependent Executable File](#bundle-a-dependent-executable-file)
+- [Build a Dependent Executable File](#build-a-dependent-executable-file)
+- [Build an Independent Executable File](#build-an-independent-executable-file)
 - [Licenses](#licenses)
   - [PyInstaller](#pyinstaller)
+
+## Build an Independent Executable File
 
 ## Build a Dependent Executable File
 
