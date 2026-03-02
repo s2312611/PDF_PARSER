@@ -11,6 +11,7 @@
 - [目次](#目次)
 - [実行可能ファイルの公開](#実行可能ファイルの公開)
 - [ソースコードの公開](#ソースコードの公開)
+- [ディレクトリの構造](#ディレクトリの構造)
 
 ## 実行可能ファイルの公開
 
@@ -19,6 +20,8 @@
 ## ソースコードの公開
 
 ギットハブの[タグのページ](https://github.com/s2312611/PDF_PARSER/tags)を確認せよ。
+
+## ディレクトリの構造
 
 # Portable Document Format Parser
 
@@ -31,6 +34,7 @@ Keywords: portable document format (`.pdf`), parser.
 - [Table of Contents](#table-of-contents)
 - [Releases of Executable Files](#releases-of-executable-files)
 - [Releases of Source Codes](#releases-of-source-codes)
+- [Directory Structure](#directory-structure)
 
 ## Releases of Executable Files
 
@@ -39,3 +43,5 @@ Reference [this manual](./Releases/readme.md).
 ## Releases of Source Codes
 
 Check the [tags page](https://github.com/s2312611/PDF_PARSER/tags) on GitHub.
+
+## Directory Structure
