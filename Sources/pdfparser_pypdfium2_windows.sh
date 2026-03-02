@@ -23,4 +23,4 @@ cp $target/pdfparser.exe ../Tests
 cp $zipfile $release
 cp $targzfile $release
 deactivate
-rm -rf ./venv
+rm -rf ./venv ./build ./dist *.tar.gz *.zip *.spec
