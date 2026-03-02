@@ -6,7 +6,7 @@
 
 | 版 | 形式 |
 |:--- |:--- |
-| `Ver.01.01` | [`.zip`](), [`.tar.gz`]() |
+| `Ver.01.01` | [`.zip`](./Ver.01.01.zip), [`.tar.gz`](./Ver.01.01.tar.gz) |
 
 # Releases of the Portable Document Format Parser
 
@@ -14,4 +14,4 @@ Download the entire source code from the [tags page](https://github.com/s2312611
 
 | Version | Formats |
 |:--- |:--- |
-| `Ver.01.01` | [`.zip`](), [`.tar.gz`]() |
+| `Ver.01.01` | [`.zip`](./Ver.01.01.zip), [`.tar.gz`](./Ver.01.01.zip) |
