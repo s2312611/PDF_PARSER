@@ -16,7 +16,7 @@ echo "Copyright © 2000 BeOpen.com.  All rights reserved." >> $dependency00t/COP
 echo "Copyright © 1995-2001 Corporation for National Research Initiatives.  All" >> $dependency00t/COPYRIGHT.rst
 echo "rights reserved." >> $dependency00t/COPYRIGHT.rst
 echo "Copyright © 1991-1995 Stichting Mathematisch Centrum.  All rights reserved." >> $dependency00t/COPYRIGHT.rst
-echo "See the `LICENSE <https://github.com/python/cpython/blob/main/LICENSE>`_ for" >> $dependency00t/COPYRIGHT.rst
+echo "See the \`LICENSE <https://github.com/python/cpython/blob/main/LICENSE>\`_ for" >> $dependency00t/COPYRIGHT.rst
 echo "information on the history of this software, terms & conditions for usage, and a" >> $dependency00t/COPYRIGHT.rst
 echo "DISCLAIMER OF ALL WARRANTIES." >> $dependency00t/COPYRIGHT.rst
 echo "" >> $dependency00t/COPYRIGHT.rst
