@@ -1,3 +1,4 @@
+venvconfig=./venv/pyvenv.cfg
 dependency00p=
 dependency00l=
 dependency00d=
