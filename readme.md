@@ -6,8 +6,16 @@
 
 キーワード：可搬型文書形式（`.pdf`）、解析器。
 
+## 目次
+
+- [目次](#目次)
+
 # Portable Document Format Parser
 
 When translating an article, there are some cases where a text format (`.txt`) is more convenient than a portable document format (`.pdf`). To address this, I created a program that parses portable document format and extracts the textual contents.
 
 Keywords: portable document format (`.pdf`), parser.
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
