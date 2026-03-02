@@ -4,6 +4,7 @@ targzfile=./$name.tar.gz
 python -m venv ./venv
 source ./venv/Scripts/activate
 python -m pip install pip==26.0.0
+python -m pip install pyinstaller==6.18.0
 python -m pip install pypdfium2==5.5.0
 pyinstaller -Fn pdfparser.exe ./pdfparser_pypdfium2.py
 target=./dist
