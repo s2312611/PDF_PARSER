@@ -13,6 +13,8 @@
 
 ## 実行可能ファイルの公開
 
+[此のマニュアル](./Releases/readme.md)を参照せよ。
+
 # Portable Document Format Parser
 
 When translating an article, there are some cases where a text format (`.txt`) is more convenient than a portable document format (`.pdf`). To address this, I created a program that parses portable document format and extracts the textual contents.
@@ -25,3 +27,5 @@ Keywords: portable document format (`.pdf`), parser.
 - [Releases of Executable Files](#releases-of-executable-files)
 
 ## Releases of Executable Files
+
+Reference [this manual](./Releases/readme.md).
