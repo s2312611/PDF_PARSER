@@ -18,7 +18,7 @@
 
 ## ソースコードの公開
 
-ギットハブのタグのページを確認せよ。
+ギットハブの[タグのページ](https://github.com/s2312611/PDF_PARSER/tags)を確認せよ。
 
 # Portable Document Format Parser
 
@@ -38,4 +38,4 @@ Reference [this manual](./Releases/readme.md).
 
 ## Releases of Source Codes
 
-Check the tags page on GitHub.
+Check the [tags page](https://github.com/s2312611/PDF_PARSER/tags) on GitHub.
