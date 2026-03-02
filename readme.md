@@ -9,6 +9,9 @@
 ## 目次
 
 - [目次](#目次)
+- [実行可能ファイルの公開](#実行可能ファイルの公開)
+
+## 実行可能ファイルの公開
 
 # Portable Document Format Parser
 
@@ -19,3 +22,6 @@ Keywords: portable document format (`.pdf`), parser.
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
+- [Releases of Executable Files](#releases-of-executable-files)
+
+## Releases of Executable Files
