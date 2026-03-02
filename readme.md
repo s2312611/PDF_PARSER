@@ -23,6 +23,31 @@
 
 ## ディレクトリの構造
 
+``` text
+PDF_PARSER
+├── Releases
+│   ├── readme.md
+│   ├── Ver.01.01.tar.gz
+│   └── Ver.01.01.zip
+├── Sources
+│   ├── PDFParser
+│   │   ├── __init__.py
+│   │   ├── _pypdfium2_.py
+│   │   └── _utility_.py
+│   ├── pdfparser_pypdfium2_windows.sh
+│   ├── pdfparser_ppypdfium2.py
+│   └── pythonlicense.sh
+├── Tests
+│   ├── 1
+│   │   └── 0
+│   │       ├── empty.pdf
+│   │       └── hello_world.pdf
+│   └── cleanup.sh
+├── .gitignore
+├── license.md
+└── readme.md
+```
+
 # Portable Document Format Parser
 
 When translating an article, there are some cases where a text format (`.txt`) is more convenient than a portable document format (`.pdf`). To address this, I created a program that parses portable document format and extracts the textual contents.
@@ -45,3 +70,28 @@ Reference [this manual](./Releases/readme.md).
 Check the [tags page](https://github.com/s2312611/PDF_PARSER/tags) on GitHub.
 
 ## Directory Structure
+
+``` text
+PDF_PARSER
+├── Releases
+│   ├── readme.md
+│   ├── Ver.01.01.tar.gz
+│   └── Ver.01.01.zip
+├── Sources
+│   ├── PDFParser
+│   │   ├── __init__.py
+│   │   ├── _pypdfium2_.py
+│   │   └── _utility_.py
+│   ├── pdfparser_pypdfium2_windows.sh
+│   ├── pdfparser_ppypdfium2.py
+│   └── pythonlicense.sh
+├── Tests
+│   ├── 1
+│   │   └── 0
+│   │       ├── empty.pdf
+│   │       └── hello_world.pdf
+│   └── cleanup.sh
+├── .gitignore
+├── license.md
+└── readme.md
+```
