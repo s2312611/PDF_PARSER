@@ -18,6 +18,8 @@
 
 ## ソースコードの公開
 
+ギットハブのタグのページを確認せよ。
+
 # Portable Document Format Parser
 
 When translating an article, there are some cases where a text format (`.txt`) is more convenient than a portable document format (`.pdf`). To address this, I created a program that parses portable document format and extracts the textual contents.
@@ -35,3 +37,5 @@ Keywords: portable document format (`.pdf`), parser.
 Reference [this manual](./Releases/readme.md).
 
 ## Releases of Source Codes
+
+Check the tags page on GitHub.
