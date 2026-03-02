@@ -40,6 +40,14 @@ localactivate(){
     fi
 }
 
+if
+    [ -n ./venv/ ]
+then
+    globalpython -m venv venv
+else
+    exit
+fi
+
 pip install pypdfium2
 pip install pyinstaller
 pyinstaller pypdfium2_module.py --onefile
