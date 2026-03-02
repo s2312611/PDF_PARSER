@@ -17,7 +17,7 @@ bash ./pythonlicense.sh
 mkdir -p $dependency01t/Dependencies
 cp $dependency01l/* $dependency01t
 cp $dependency01d/* $dependency01t/Dependencies
-zip -r $zipfile $target
+cd $target; zip -r ../$zipfile .; cd ..
 tar -czf $targzfile -C $target .
 cp $target/pdfparser.exe ../Tests
 cp $zipfile $release
