@@ -3,7 +3,7 @@ zipfile=./$name.zip
 targzfile=./$name.tar.gz
 python -m venv ./venv
 source ./venv/Scripts/activate
-execute_python="./venv/Scripts/python"
+execute_python=./venv/Scripts/python
 $execute_python -m pip install pip==26.0.0
 packages=./venv/Lib/site-packages
 $execute_python -m pip install pypdfium2==5.5.0
