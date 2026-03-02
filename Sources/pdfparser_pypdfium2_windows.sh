@@ -13,6 +13,7 @@ dependency01p=$(find $packages -type d -name pypdfium*info)
 dependency01l=$(find $dependency01p -type d -name LICENSES)
 dependency01d=$(find $dependency01p -type d -name BUILD_LICENSES)
 dependency01t=$target/Licenses/Pypdfium2
+cp ../license.md $target
 bash ./pythonlicense.sh
 mkdir -p $dependency01t/Dependencies
 cp $dependency01l/* $dependency01t
