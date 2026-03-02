@@ -14,6 +14,8 @@ dependency01l=$(find $dependency01p -type d -name LICENSES)
 dependency01d=$(find $dependency01p -type d -name BUILD_LICENSES)
 dependency01t=$target/dist/Licenses/Pypdfium2
 mkdir -p $dependency01t $dependency01t/Dependencies
+cp $dependency01l/* $dependency01t
+cp $dependency01d/* $dependency01t/Dependencies
 zip -r $zipfile $target
 tar -czf $targzfile -C $target .
 deactivate
