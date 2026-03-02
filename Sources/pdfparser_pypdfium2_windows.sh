@@ -9,11 +9,10 @@ packages=./venv/Lib/site-packages
 $execute_python -m pip install pypdfium2==5.5.0
 pyinstaller -Fn pdfparser.exe ./pdfparser_pypdfium2.py
 target=./dist
-licenses=$target/licenses
 dependency01p=$(find $packages -type d -name pypdfium*info)
 dependency01l=$(find $dependency01p -type d -name LICENSES)
 dependency01d=$(find $dependency01p -type d -name BUILD_LICENSES)
-mkdir $licenses
+dependency01t=$licenses/pypdfium2
 zip -r $zipfile $target
 tar -czf $targzfile -C $target .
 deactivate
