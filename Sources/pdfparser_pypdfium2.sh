@@ -1,3 +1,31 @@
+globalpython(){
+    if
+        python >/dev/null 2>&1
+    then
+        python
+    elif
+        python3 >/dev/null 2>&1
+    then
+        python3
+    else
+        exit
+    fi
+}
+
+localpython(){
+    if
+        [ -e ./venv/bin/python ]
+    then
+        ./venv/bin/python
+    elif
+        [ -e ./venv/Scripts/python ]
+    then
+        ./venv/Scripts/python
+    else
+        exit
+    fi
+}
+
 pip install pypdfium2
 pip install pyinstaller
 pyinstaller pypdfium2_module.py --onefile
