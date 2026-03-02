@@ -6,7 +6,7 @@ source ./venv/Scripts/activate
 python -m pip install pip==26.0.0
 python -m pip install pyinstaller==6.18.0
 python -m pip install pypdfium2==5.5.0
-pyinstaller -Fn pdfparser.exe ./pdfparser_pypdfium2.py
+python -m PyInstaller -Fn pdfparser.exe ./pdfparser_pypdfium2.py
 target=./dist
 release=../Releases
 packages=./venv/Lib/site-packages
