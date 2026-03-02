@@ -12,7 +12,7 @@ target=./dist
 dependency01p=$(find $packages -type d -name pypdfium*info)
 dependency01l=$(find $dependency01p -type d -name LICENSES)
 dependency01d=$(find $dependency01p -type d -name BUILD_LICENSES)
-dependency01t=$licenses/pypdfium2
+dependency01t=$target/dist/Licenses/Pypdfium2
 zip -r $zipfile $target
 tar -czf $targzfile -C $target .
 deactivate
