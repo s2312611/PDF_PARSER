@@ -8,7 +8,8 @@ $execute_python -m pip install pip==26.0.0
 $execute_python -m pip install pypdfium2==5.5.0
 pyinstaller -Fn pdfparser.exe ./pdfparser_pypdfium2.py
 target=./dist
-mkdir $target/licenses
+licenses=$target/licenses
+mkdir $licenses
 zip -r $zipfile $target
 tar -czf $targzfile -C $target .
 deactivate
