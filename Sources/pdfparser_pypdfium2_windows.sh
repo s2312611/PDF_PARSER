@@ -2,7 +2,7 @@ python -m venv ./venv/
 source ./venv/Scripts/activate
 execute_python="./venv/Scripts/python"
 $execute_python -m pip install pip==26.0.0
-$execute_python -m pip install -r ./requirements_pypdfium2.txt
+$execute_python -m pip install pypdfium2==5.5.0
 pyinstaller -Fn pdfparser.exe ./pdfparser_pypdfium2.py
 name="${1:-pdfparser_pdfium2}"
 zipfile=./$name.zip
