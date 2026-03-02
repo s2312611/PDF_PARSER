@@ -5,10 +5,10 @@ python -m venv ./venv
 source ./venv/Scripts/activate
 execute_python=./venv/Scripts/python
 $execute_python -m pip install pip==26.0.0
-packages=./venv/Lib/site-packages
 $execute_python -m pip install pypdfium2==5.5.0
 pyinstaller -Fn pdfparser.exe ./pdfparser_pypdfium2.py
 target=./dist
+packages=./venv/Lib/site-packages
 dependency01p=$(find $packages -type d -name pypdfium*info)
 dependency01l=$(find $dependency01p -type d -name LICENSES)
 dependency01d=$(find $dependency01p -type d -name BUILD_LICENSES)
