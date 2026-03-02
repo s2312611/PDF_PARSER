@@ -10,10 +10,13 @@
 
 - [目次](#目次)
 - [実行可能ファイルの公開](#実行可能ファイルの公開)
+- [ソースコードの公開](#ソースコードの公開)
 
 ## 実行可能ファイルの公開
 
 [此のマニュアル](./Releases/readme.md)を参照せよ。
+
+## ソースコードの公開
 
 # Portable Document Format Parser
 
@@ -25,7 +28,10 @@ Keywords: portable document format (`.pdf`), parser.
 
 - [Table of Contents](#table-of-contents)
 - [Releases of Executable Files](#releases-of-executable-files)
+- [Releases of Source Codes](#releases-of-source-codes)
 
 ## Releases of Executable Files
 
 Reference [this manual](./Releases/readme.md).
+
+## Releases of Source Codes
