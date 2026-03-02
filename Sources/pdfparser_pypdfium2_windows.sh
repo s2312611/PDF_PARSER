@@ -7,4 +7,4 @@ pyinstaller --onefile ./pdfparser_pypdfium2.py
 zip -r ./pdfparser_pypdfium2.zip ./dist/
 tar -czf ./pdfparser_pypdfium2.tar.gz -C ./dist/ ./
 deactivate
-rm --recursive --force ./venv/
+rm -rf ./venv/
