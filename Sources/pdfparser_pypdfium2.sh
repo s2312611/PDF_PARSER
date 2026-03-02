@@ -26,6 +26,20 @@ localpython(){
     fi
 }
 
+localactivate(){
+    if
+        [ -e ./venv/bin/activate ]
+    then
+        ./venv/bin/activate
+    elif
+        [ -e ./venv/Scripts/activate ]
+    then
+        ./venv/Scripts/activate
+    else
+        exit
+    fi
+}
+
 pip install pypdfium2
 pip install pyinstaller
 pyinstaller pypdfium2_module.py --onefile
