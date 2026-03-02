@@ -30,11 +30,11 @@ localactivate(){
     if
         [ -e ./venv/bin/activate ]
     then
-        ./venv/bin/activate
+        source ./venv/bin/activate
     elif
         [ -e ./venv/Scripts/activate ]
     then
-        ./venv/Scripts/activate
+        source ./venv/Scripts/activate
     else
         exit
     fi
