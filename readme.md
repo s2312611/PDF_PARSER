@@ -33,13 +33,13 @@
 1. バッシュでＧＺＩＰファイル（`.gz`）を展開する場合。
 
    ``` bash
-   tar -xzf $compress
+   tar -xzf $compress -C $extract
    ```
 
 2. バッシュでＺＩＰファイル（`.zip`）を展開する場合。
 
    ``` bash
-   zip -uo $compress
+   unzip -uo $compress -d $extract
    ```
 
 ## ディレクトリの構造
@@ -102,13 +102,13 @@ Extract the downloaded compress file. After extraction, agree with the licenses 
 1. To extract the GZIP file (`.gz`) in Bash.
 
    ``` bash
-   tar -xzf $compress
+   tar -xzf $compress -C $extract
    ```
 
 2. To extract the ZIP file (`.zip`) in Bash.
 
    ``` bash
-   zip -uo $compress
+   unzip -uo $compress -d $extract
    ```
 
 ## Directory Structure
