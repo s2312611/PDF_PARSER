@@ -9,20 +9,10 @@
 ## 目次
 
 - [目次](#目次)
-- [実行可能ファイルの公開](#実行可能ファイルの公開)
-- [ソースコードの公開](#ソースコードの公開)
 - [利用方法](#利用方法)
   - [ダウンロード](#ダウンロード)
   - [インストール](#インストール)
 - [ディレクトリの構造](#ディレクトリの構造)
-
-## 実行可能ファイルの公開
-
-[此のマニュアル](./Releases/readme.md)を参照せよ。
-
-## ソースコードの公開
-
-ギットハブの[タグのページ](https://github.com/s2312611/PDF_PARSER/tags)を確認せよ。
 
 ## 利用方法
 
@@ -88,20 +78,10 @@ Keywords: portable document format (`.pdf`), parser.
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Releases of Executable Files](#releases-of-executable-files)
-- [Releases of Source Codes](#releases-of-source-codes)
 - [Usage](#usage)
   - [Download](#download)
   - [Install](#install)
 - [Directory Structure](#directory-structure)
-
-## Releases of Executable Files
-
-Reference [this manual](./Releases/readme.md).
-
-## Releases of Source Codes
-
-Check the [tags page](https://github.com/s2312611/PDF_PARSER/tags) on GitHub.
 
 ## Usage
 
