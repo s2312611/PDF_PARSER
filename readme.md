@@ -27,6 +27,12 @@
 
 ### ダウンロード
 
+公開用ディレクトリから実行可能ファイルを圧縮したファイルをダウンロードする。尚、`$locator`を該当するダウンロードリンクに置き換える事。
+
+``` bash
+curl -o ~/ $locator
+```
+
 ## ディレクトリの構造
 
 ``` text
@@ -80,6 +86,12 @@ Check the [tags page](https://github.com/s2312611/PDF_PARSER/tags) on GitHub.
 ## Usage
 
 ### Download
+
+Download the compress file that includes the executable file from the release directory. Replace `$locator` with the download link of your choice.
+
+``` bash
+curl -o ~/ $locator
+```
 
 ## Directory Structure
 
