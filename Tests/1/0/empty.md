@@ -21,7 +21,11 @@
 
 ## 見出
 
+見出で可搬式文書型式の使用と其の版号を宣言する。
+
 ###### ０１～０１
+
+今回は第１．０版の可搬式文書型式を使用する為、`%PDF-1.0`と記述する。異なる版を採用する場合は、`1.0`の部分を該当する版号に変更する。
 
 ``` pdf
 %PDF-1.0
@@ -54,7 +58,11 @@ I will show the whole writings of the [document](./empty.pdf) below. A document 
 
 ## Header
 
+Declare use of the portable document format and its version in the header.
+
 ###### 01 - 01
+
+This time, I use the portable document format version 1.0, so writing `%PDF-1.0`. If you adopt a different version, change `1.0` with that version number.
 
 ``` pdf
 %PDF-1.0
