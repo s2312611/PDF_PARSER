@@ -121,6 +121,12 @@ Extract the downloaded compress file. After extraction, agree with the licenses 
    tar -xzf $compress
    ```
 
+2. To extract the ZIP file (`.zip`) in Bash.
+
+   ``` bash
+   zip -uo $compress
+   ```
+
 ## Directory Structure
 
 ``` text
