@@ -14,6 +14,7 @@
 - [ディレクトリの構造](#ディレクトリの構造)
 - [使用方法](#使用方法)
   - [ダウンロード](#ダウンロード)
+  - [インストール](#インストール)
 
 ## 実行可能ファイルの公開
 
@@ -32,6 +33,8 @@
 ``` bash
 curl -o ~/ $locator
 ```
+
+### インストール
 
 ## ディレクトリの構造
 
@@ -74,6 +77,7 @@ Keywords: portable document format (`.pdf`), parser.
 - [Directory Structure](#directory-structure)
 - [Usage](#usage)
   - [Download](#download)
+  - [Install](#install)
 
 ## Releases of Executable Files
 
@@ -92,6 +96,8 @@ Download the compress file that includes the executable file from the [release d
 ``` bash
 curl -o ~/ $locator
 ```
+
+### Install
 
 ## Directory Structure
 
