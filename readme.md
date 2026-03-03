@@ -36,6 +36,8 @@ curl -o ~/ $locator
 
 ### インストール
 
+ダウンロードした圧縮ファイルを展開する。展開後、其のフォルダー内のライセンスに同意する事。
+
 ## ディレクトリの構造
 
 ``` text
@@ -98,6 +100,8 @@ curl -o ~/ $locator
 ```
 
 ### Install
+
+Extract the downloaded compress file. After extraction, agree with the licenses in the folder.
 
 ## Directory Structure
 
