@@ -9,6 +9,11 @@
 
 ## 文書
 
+以下に[文書](./empty.pdf)の記述を提示する。
+
+``` pdf
+```
+
 # Empty Document
 
 ## Table of Contents
@@ -17,3 +22,8 @@
 - [Document](#document)
 
 ## Document
+
+I will show the whole writings of the [document](./empty.pdf) below.
+
+``` pdf
+```
