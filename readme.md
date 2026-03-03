@@ -36,7 +36,7 @@ curl -o $compress $link
 
 ### インストール
 
-ダウンロードした圧縮ファイルを展開する。展開後、其のフォルダー内のライセンスに同意する事。尚、`$compress`を圧縮ファイルのダウンロード先のパスに置き換える事。
+ダウンロードした圧縮ファイルを展開する。展開後、其のフォルダー内のライセンスに同意する事。尚、`$compress`を圧縮ファイルのダウンロード先のパスに、`$extract`を圧縮ファイルの展開先のパスに置き換える事。
 
 1. バッシュでＧＺＩＰファイル（`.gz`）を展開する場合。
 
@@ -113,7 +113,7 @@ curl -o $compress $link
 
 ### Install
 
-Extract the downloaded compress file. After extraction, agree with the licenses in the folder. Replace `$compress` with the path to which you download the compress file.
+Extract the downloaded compress file. After extraction, agree with the licenses in the folder. Replace `$compress` with the path to which you download the compress file and `$extract` with the path to which you extract the compress file.
 
 1. To extract the GZIP file (`.gz`) in Bash.
 
