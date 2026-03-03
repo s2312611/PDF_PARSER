@@ -20,6 +20,10 @@
 
 - [Table of Contents](#table-of-contents)
 - [Document](#document)
+- [Header](#header)
+- [Body](#body)
+- [Cross-Reference Table](#cross-reference-table)
+- [Trailer](#trailer)
 
 ## Document
 
@@ -27,3 +31,11 @@ I will show the whole writings of the [document](./empty.pdf) below.
 
 ``` pdf
 ```
+
+## Header
+
+## Body
+
+## Cross-Reference Table
+
+## Trailer
