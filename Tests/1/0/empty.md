@@ -20,6 +20,12 @@
 
 ## 見出
 
+###### ０１～０１
+
+``` pdf
+%PDF-1.0
+```
+
 ## 本文
 
 ## 相互参照表
@@ -45,6 +51,12 @@ I will show the whole writings of the [document](./empty.pdf) below. A document 
 ```
 
 ## Header
+
+###### 01 - 01
+
+``` pdf
+%PDF-1.0
+```
 
 ## Body
 
