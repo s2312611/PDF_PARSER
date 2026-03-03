@@ -44,6 +44,12 @@ curl -o $compress $link
    tar -xzf $compress
    ```
 
+2. バッシュでＺＩＰファイル（`.zip`）を展開する場合。
+
+   ``` bash
+   zip -uo $compress
+   ```
+
 ## ディレクトリの構造
 
 ``` text
