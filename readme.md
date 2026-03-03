@@ -38,6 +38,12 @@ curl -o $compress $link
 
 ダウンロードした圧縮ファイルを展開する。展開後、其のフォルダー内のライセンスに同意する事。
 
+1. バッシュでＧＺＩＰファイル（`.gz`）を展開する場合。
+
+   ``` bash
+   tar -xzf $compress
+   ```
+
 ## ディレクトリの構造
 
 ``` text
@@ -102,6 +108,12 @@ curl -o $compress $link
 ### Install
 
 Extract the downloaded compress file. After extraction, agree with the licenses in the folder.
+
+1. To extract the GZIP file (`.gz`) in Bash:
+
+   ``` bash
+   tar -xzf $compress
+   ```
 
 ## Directory Structure
 
