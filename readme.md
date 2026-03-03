@@ -11,10 +11,10 @@
 - [目次](#目次)
 - [実行可能ファイルの公開](#実行可能ファイルの公開)
 - [ソースコードの公開](#ソースコードの公開)
-- [ディレクトリの構造](#ディレクトリの構造)
 - [利用方法](#利用方法)
   - [ダウンロード](#ダウンロード)
   - [インストール](#インストール)
+- [ディレクトリの構造](#ディレクトリの構造)
 
 ## 実行可能ファイルの公開
 
@@ -90,10 +90,10 @@ Keywords: portable document format (`.pdf`), parser.
 - [Table of Contents](#table-of-contents)
 - [Releases of Executable Files](#releases-of-executable-files)
 - [Releases of Source Codes](#releases-of-source-codes)
-- [Directory Structure](#directory-structure)
 - [Usage](#usage)
   - [Download](#download)
   - [Install](#install)
+- [Directory Structure](#directory-structure)
 
 ## Releases of Executable Files
 
