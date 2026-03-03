@@ -28,10 +28,10 @@
 
 ### ダウンロード
 
-[公開用ディレクトリ](./Releases/readme.md)から実行可能ファイルを圧縮したファイルをダウンロードする。尚、`$link`を該当するダウンロードリンクに置き換える事。
+[公開用ディレクトリ](./Releases/readme.md)から実行可能ファイルを圧縮したファイルをダウンロードする。尚、`$link`を該当するダウンロードリンクに、`$compress`を圧縮ファイルのダウンロード先のパスに置き換える事。
 
 ``` bash
-curl -o ~/ $link
+curl -o $compress $link
 ```
 
 ### インストール
@@ -93,10 +93,10 @@ Check the [tags page](https://github.com/s2312611/PDF_PARSER/tags) on GitHub.
 
 ### Download
 
-Download the compress file that includes the executable file from the [release directory](./Releases/readme.md). Replace `$link` with the download link of your choice.
+Download the compress file that includes the executable file from the [release directory](./Releases/readme.md). Replace `$link` with the download link of your choice and `$compress` with the path to which you download the compress file.
 
 ``` bash
-curl -o ~/ $link
+curl -o $compress $link
 ```
 
 ### Install
