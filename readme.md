@@ -109,7 +109,7 @@ curl -o $compress $link
 
 Extract the downloaded compress file. After extraction, agree with the licenses in the folder.
 
-1. To extract the GZIP file (`.gz`) in Bash:
+1. To extract the GZIP file (`.gz`) in Bash.
 
    ``` bash
    tar -xzf $compress
