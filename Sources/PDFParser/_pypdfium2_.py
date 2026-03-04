@@ -1,5 +1,4 @@
-from ._utility_ import search_pdfs
-import os, os.path as ospath
+import os.path as ospath
 import pypdfium2 as pdfium
 
 def extract_text(path):
