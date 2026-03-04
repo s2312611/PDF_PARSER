@@ -4,10 +4,10 @@
 
 | 版 | 実行可能ファイル | ソースコード | 概要 |
 |:--- |:--- |:--- |:--- |
-| `Ver.01.01` | [`.zip`](https://raw.githubusercontent.com/s2312611/PDF_PARSER/Ver.01.01/Releases/Ver.01.01.zip), [`.gz`](https://raw.githubusercontent.com/s2312611/PDF_PARSER/Ver.01.01/Releases/Ver.01.01.tar.gz) | [`.zip`](https://github.com/s2312611/PDF_PARSER/archive/Ver.01.01.06.zip), [`.gz`](https://github.com/s2312611/PDF_PARSER/archive/Ver.01.01.06.tar.gz) | `pypdfium2`モジュール依存の解析器、試験用第１．０版可搬式文書型式文書 |
+| `Ver.01.01` | [`.zip`](https://raw.githubusercontent.com/s2312611/PDF_PARSER/Ver.01.01/Releases/Ver.01.01.zip), [`.gz`](https://raw.githubusercontent.com/s2312611/PDF_PARSER/Ver.01.01/Releases/Ver.01.01.tar.gz) | [`.zip`](https://github.com/s2312611/PDF_PARSER/archive/Ver.01.01.07.zip), [`.gz`](https://github.com/s2312611/PDF_PARSER/archive/Ver.01.01.07.tar.gz) | `pypdfium2`モジュール依存の解析器、試験用第１．０版可搬式文書型式文書 |
 
 # Releases of the Portable Document Format Parser
 
 | Version | Executable File | Source Code | Description |
 |:--- |:--- |:--- |:--- |
-| `Ver.01.01` | [`.zip`](https://raw.githubusercontent.com/s2312611/PDF_PARSER/Ver.01.01/Releases/Ver.01.01.zip), [`.gz`](https://raw.githubusercontent.com/s2312611/PDF_PARSER/Ver.01.01/Releases/Ver.01.01.tar.gz) | [`.zip`](https://github.com/s2312611/PDF_PARSER/archive/Ver.01.01.06.zip), [`.gz`](https://github.com/s2312611/PDF_PARSER/archive/Ver.01.01.06.tar.gz) | parser depending on the `pypdfium2` module, and test documents in the portable document format version 1.0 |
+| `Ver.01.01` | [`.zip`](https://raw.githubusercontent.com/s2312611/PDF_PARSER/Ver.01.01/Releases/Ver.01.01.zip), [`.gz`](https://raw.githubusercontent.com/s2312611/PDF_PARSER/Ver.01.01/Releases/Ver.01.01.tar.gz) | [`.zip`](https://github.com/s2312611/PDF_PARSER/archive/Ver.01.01.07.zip), [`.gz`](https://github.com/s2312611/PDF_PARSER/archive/Ver.01.01.07.tar.gz) | parser depending on the `pypdfium2` module, and test documents in the portable document format version 1.0 |
